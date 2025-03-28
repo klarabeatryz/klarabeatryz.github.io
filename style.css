@@ -41,7 +41,7 @@ box-shadow: 0 0 10px var(--cor-primaria);
 }
 /* 1rem = 16px&/
 /* imagem*/
-img{
+.foto {
     width: 250px;
     heigth: 250px;
  
@@ -51,7 +51,7 @@ img{
     
 }
 
-img:hover {
+.foto:hover {
     width: 160px;
     height: 160px;
     box-shadow: 0 0 10px var(--cor-secundaria);
